@@ -1,0 +1,17 @@
+#root {
+  justify-content: center;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/originals/60/19/89/601989ff441ddc92bc0fa2e05040f9e7.jpg");
+}
+
+h1 {
+  font-size: 44px;
+  color: rgba(195, 0, 255, 0.479);
+  text-align: center;
+}
+
+img {
+  text-align: center;
+}

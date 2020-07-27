@@ -6,13 +6,13 @@
     "done": false
   },
   {
-    "id": 2,
-    "title": "Tarea de Tony",
-    "description": "Elaborar el menu de Tramitens movil",
+    "id": 1,
+    "title": "Tarea de Olguin",
+    "description": "Elaborar el cronograma del proyecto",
     "done": false
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "Tarea de Alex",
     "description": "Elaborar un to do list",
     "done": true

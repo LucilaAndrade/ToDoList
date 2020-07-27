@@ -1,0 +1,20 @@
+.Task {
+  background-color: rgba(253, 106, 106, 0.137);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-color: black;
+  border-width: 15px;
+  margin: 10px;
+}
+
+.titulo {
+  background-color: rgba(211, 106, 253, 0.192);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-color: black;
+  border-width: 5px;
+  display: block;
+  align-content: flex-end;
+}
+.App {
+  align-items: center;
+  padding: 10%;
+}
